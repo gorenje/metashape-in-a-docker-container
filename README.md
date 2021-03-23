@@ -32,6 +32,8 @@ So don't forget to switch of Xquartz after you have finished.
 
 ### Running & Failing
 
+Tested with Xquartz 2.8.0, MacOS 10.13.6 and Metashape 1.7.2
+
 To build and run the container:
 
 ```
